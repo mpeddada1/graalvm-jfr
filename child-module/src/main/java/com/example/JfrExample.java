@@ -21,6 +21,5 @@ public class JfrExample {
     // }
     public static void main(String... args) {
       System.out.println("HELLLOOO");
-      MyFeature feat = new MyFeature();
     }
 }
